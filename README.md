@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shayan65, Co-founder & Machine Learning Architect/Engineer at NEWCORTEX AI.
+- 👋 Hi, I’m @shayan65
 - 👀 I’m passionate about Machine Learning, Deep Learning, Quantitative Finance, and applying advanced AI to solve complex problems.
   
 ### Background
